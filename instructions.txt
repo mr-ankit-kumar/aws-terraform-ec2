@@ -1,5 +1,5 @@
-How to install jenkins, java, pythonhttps://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
+How to create ec2 instance using terraform: https://www.sammeechward.com/terraform-vpc-subnets-ec2-and-more
 
-How to create ec2 instance using terraform
+How to install jenkins, java, python: https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 
-https://www.sammeechward.com/terraform-vpc-subnets-ec2-and-more
+
